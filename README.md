@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm nishitaku 👋
+
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishitaku&theme=github_dark
 
 <!--
 **nishitaku/nishitaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
